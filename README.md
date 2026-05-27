@@ -1,1 +1,1 @@
-# MyFirstProject - edited in main branch
+# MyFirstProject - merged version

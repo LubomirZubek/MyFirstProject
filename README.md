@@ -1,1 +1,1 @@
-# MyFirstProject - merged version - edited on GitHub
+# MyFirstProject - edited in the computer
